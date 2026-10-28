@@ -4,3 +4,5 @@ __pycache__/
 .data/
 data/*.npy
 data/processed/
+.venv/
+models/*.pt
